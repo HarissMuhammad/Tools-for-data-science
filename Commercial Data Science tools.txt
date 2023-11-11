@@ -1,0 +1,50 @@
+Data Management 
+
+1-Oracle Database
+2-Microsoft SQLServer
+3-IBM DB 2
+
+___________________________________________
+
+DATA INtegretion Tools
+
+1-Informatica
+2-IBM Infosphere dataStage
+3-talend
+4-IBM watson Studio Desktop
+
+___________________________________________
+
+Data Visualization
+
+1-Tableau
+2-Microsoft Power BI
+3-IBM cognos analytics
+
+___________________________________________
+
+Model Building
+
+1-SPSS
+2-SAS
+
+___________________________________________
+
+Model Deployment
+
+1-ibm spss collaboration and deployment services
+
+___________________________________________
+
+Data ASSET MAnagement
+
+1-IBM Infosphere information Governance Catalog
+
+___________________________________________
+
+Fully integrated Visual tool
+
+1-Watson studio
+2-Watson Openscale
+3-H20 driverless ai
+ 

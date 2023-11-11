@@ -1,0 +1,10 @@
+1-Business Analyst
+2-Database Engineer
+3-Data Analyst
+4-Data Engineer
+5-Data Scientist
+6-Research Scientist
+7-Software Engineer
+8-Statistician
+9-Product Manager
+10-Project Manager

@@ -1,0 +1,93 @@
+Data Management Tools
+1-postgre
+2-Mysql
+3-mongoDB
+4-Apache CouchDB		
+5-APache Cassandra
+File based Tools
+6-Hadoop HDFS
+7-Ceph
+8-elasticsearch
+
+___________________________________________
+
+Data Integration and Transformations tools
+1-Apache AirFlow
+2-kubeflow
+3-Apache Kafka
+4-Apache nifi
+5-Apache spark SQL
+6-Node-Red
+
+___________________________________________
+
+Data Visualization tools
+
+1-PixieDust
+2-Hue
+3-Kibana
+4-Apache superset
+____________________________________________
+
+Model Deployment Tools
+
+1-Apache PredictionIO(only Supports Apache Spark ML models currently)
+2-SELDON
+3-mleap
+4-TensorFLow service
+5-TensorFLow lite
+6-TensorFLow.js
+7-Kubernetes
+8-RedhatOPenshift
+
+___________________________________________
+
+Model Monitoring And Assessment
+
+1-ModelDB
+2-Prometheus
+3-IBM AI Fairness 360(tool to remove bias in ML models)
+4-IBM Adversarial Robustness 360
+5-IBM Explainability 360
+
+___________________________________________
+
+Code asset Management
+
+1-git
+2-Github
+3-GitLab
+4-BitBucket
+
+___________________________________________
+
+Data asset Management
+
+1-Apache Atlas
+2-ODPI Egeria
+3-Kylo
+
+___________________________________________
+
+Deveplopment Environments
+
+1-Jupyter
+2-jupyter lab
+3-Apache zeppelin
+4-Rstudio
+5-Spyder
+
+___________________________________________
+
+Execution Environments
+
+1-Apache Spark
+2-Apache Flink
+3-Ray
+
+___________________________________________
+
+Fully Integrated and Visual 
+
+1-KNIME
+2-Orange

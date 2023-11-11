@@ -1,0 +1,61 @@
+open data list from world
+
+http://datacatalogs.org/
+ 
+governmental and organizations data websites
+
+http:data.un.org/
+http:///www.data.gov/
+https:www.europeandataportal.eu/en/
+
+
+Google data set
+
+https:data setsearch.research.google.com/
+-----------------------------------------------------------
+Government data
+
+https://www.data.gov/
+https://www.census.gov/data.html
+https://data.gov.uk/
+https://www.opendatanetwork.com/
+https://data.un.org/
+-----------------------------------------------------------
+Financial Data Sources:
+
+https://data.worldbank.org/
+https://www.globalfinancialdata.com/
+https://comtrade.un.org/
+https://www.nber.org/
+https://fred.stlouisfed.org/
+-----------------------------------------------------------
+Crime Data:
+
+https://www.fbi.gov/services/cjis/ucr
+https://www.icpsr.umich.edu/icpsrweb/content/NACJD/index.html
+https://www.drugabuse.gov/related-topics/trends-statistics
+https://www.unodc.org/unodc/en/data-and-analysis/
+-----------------------------------------------------------
+Health Data:
+
+https://www.who.int/gho/database/en/
+https://www.fda.gov/Food/default.htm
+https://seer.cancer.gov/faststats/selections.php?series=cancer
+https://www.opensciencedatacloud.org/
+https://pds.nasa.gov/
+https://earthdata.nasa.gov/
+https://www.sgim.org/communities/research/dataset-compendium/public-datasets-topic-grid
+-----------------------------------------------------------
+Academic and Business Data:
+
+https://scholar.google.com/
+https://nces.ed.gov/
+https://www.glassdoor.com/research/
+https://www.yelp.com/dataset
+-----------------------------------------------------------
+General other
+
+https://www.kaggle.com/datasets
+https://www.reddit.com/r/datasets/
+
+Data asset exchange

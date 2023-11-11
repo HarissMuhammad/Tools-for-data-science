@@ -1,0 +1,16 @@
+Scientific Computing Libraries
+
+1-Pandas
+2-Numpy
+
+Visualization Libraries
+
+1-Matplotlib
+2-Seaborn
+
+MAchine Learning Libraries
+
+1-Scikit-learn (for Machine Learning)
+2-Keras (for Deep learning neural networks)
+3-TensorFlow(for Deep learning )
+4-Pytorch(for Deep learning )

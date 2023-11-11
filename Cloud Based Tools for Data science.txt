@@ -1,0 +1,45 @@
+Fully integrated And Visualization
+
+1-IBM Watson studio
+2-watson Openscale
+3-Microsoft azure Machine learning
+4-H20 Driverless ai
+
+___________________________________________
+
+Data Management
+
+1-Amazon DynamoDB
+2-Cloudant
+3-CouchDB
+4-IBM DB2
+
+___________________________________________
+
+Data integration Transformation (ETL) tools
+
+1-Informatica 
+2-IBM Data Refinery
+
+___________________________________________
+
+Data Visualization
+
+1-Datameer
+2-IBM Cognos Analytics
+3-IBM Watson Studio Skills Network
+
+___________________________________________
+
+Model Buiding
+
+1-IBM watson MAchine Learning
+2-GOOGLE CLOUD
+
+___________________________________________
+
+Model Monitering and Assessment
+
+1-Amazon SageMaker Model Monitoring
+2-Watson Studio
+3-Watson Openscale

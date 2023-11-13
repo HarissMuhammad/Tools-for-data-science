@@ -8,7 +8,7 @@ File based Tools
 6-Hadoop HDFS
 7-Ceph
 8-elasticsearch
-
+9-informatica power center
 ___________________________________________
 
 Data Integration and Transformations tools
